@@ -61,7 +61,7 @@ AI-powered health and genetics analysis app for early detection and personalized
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agner%20Díaz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/agnerdiaz)
 [![GitHub](https://img.shields.io/badge/GitHub-AgnerDDiaz-black?style=flat&logo=github)](https://github.com/AgnerDDiaz)
-[![Email](https://img.shields.io/badge/Email-agnerdiaz.dev%40gmail.com-red?style=flat&logo=gmail)](mailto:agnerdiazenc@gmail.com)
+[![Email](https://img.shields.io/badge/Email-agnerdiazenc%40gmail.com-red?style=flat&logo=gmail)](mailto:agnerdiazenc@gmail.com)
 
 ---
 
