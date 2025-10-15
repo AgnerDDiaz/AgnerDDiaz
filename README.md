@@ -52,9 +52,8 @@ AI-powered health and genetics analysis app for early detection and personalized
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agnerdiaz&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agnerdiaz&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agnerdiaz&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agnerddiaz&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agnerddiaz&layout=compact&theme=tokyonight)
 
 ---
 
